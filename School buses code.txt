@@ -1,0 +1,26 @@
+<center>
+  <h1>Sri chaitanya Techno School</h1>
+  <h3>Vil: Dilsukhnagar Mdl: Sarror Nagar Dist: RR Reddy ,505802</h3>
+  <hr>
+
+  <h3>
+  <a href="index.html">Home</a>  &nbsp; &nbsp;
+  <a href="about.Html">About Us</a> &nbsp; &nbsp;
+  <a href="services.html">Services</a>  &nbsp; &nbsp;
+  <a href="Buses.Html">Buses</a>   &nbsp; &nbsp;
+  <a href="Fees details.html">Fees details</a> &nbsp; &nbsp;
+  <a href="Contacts.html">contact Us</a>  &nbsp; &nbsp;
+  <hr>
+
+<h1>We are having 40+ AC buses around all over twin cities</h1>
+
+<img src="bus1.jpg" alt="">
+<img src="Bus 2.jpg" alt="">
+
+</center>
+
+<p> Buses are very good and very less fee lorem isumiashdsayu hjsgdjsydwenm sdayej sadghfyte edghewggm awey qwyet hdgywe<p>
+
+<p> Daily buses will come on time. jnksadhcsiu jhfisu hjdskfhsbjhf hiudfh hdhis udsh hhhsu ihdfw78e sdfgsyu78e difgfy sdfgsyu78efgsug
+  shguwe sudsi8ehkb  ygeww gjay jgdysdweh jyits sdhiue sah dhgwuiyi ahudiwe</p>
+

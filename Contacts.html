@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <center>
+  <h1>Sri chaitanya Techno School</h1>
+  <h3>Vil: Dilsukhnagar Mdl: Sarror Nagar Dist: RR Reddy ,505802</h3>
+  <hr>
+
+  <h3>
+  <a href="index.html">Home</a>  &nbsp; &nbsp;
+  <a href="about.Html">About Us</a> &nbsp; &nbsp;
+  <a href="services.html">Services</a>  &nbsp; &nbsp;
+  <a href="Buses.Html">Buses</a>   &nbsp; &nbsp;
+  <a href="Fees details.html">Fees details</a> &nbsp; &nbsp;
+  <a href="Contacts.html">contact Us</a>  &nbsp; &nbsp;
+</h3>
+  <hr>
+</center>
+<address>
+Address:
+SriChaitanya techno school, <br>
+Vil: Dilsukhnagar, <br>
+Mdl: Sarror Nagar, <br>
+Dst: RR REddy, <br>
+Pincode: 50082, <br>
+email: hr@schools.<br>
+call:8108108101
+</address>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15231.686717294398!2d78.51851796765108!3d17.36750133898115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99dac93e348d%3A0xc9039baf28225326!2sSri%20Chaitanya%20school!5e0!3m2!1sen!2sin!4v1652623268714!5m2!1sen!2sin" width="950" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30463.373434588797!2d78.50976323747523!3d17.367501338981157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99dac93e348d%3A0xc9039baf28225326!2sSri%20Chaitanya%20school!5e0!3m2!1sen!2sin!4v1652623950775!5m2!1sen!2sin" width="150" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a href="call:8108108101">8108108101</a>
+<a href="mailtohr@schools.com"hr@schools.com</a>
+
+<hr>
+<h1>technical website</h1>
+
+<h3>Java Data base Connection code:</h3>
+
+<pre>
+import java.sql.*;
+class MysqlCon{
+public static void main(String args[]){
+try{
+Class.forName("com.mysql.jdbc.Driver");
+Connection con=DriverManager.getConnection(
+"jdbc:mysql://localhost:3306/sonoo","root","root");
+//here sonoo is database name, root is username and password
+Statement stmt=con.createStatement();
+ResultSet rs=stmt.executeQuery("select * from emp");
+while(rs.next())
+System.out.println(rs.getInt(1)+"  "+rs.getString(2)+"  "+rs.getString(3));
+con.close();
+}catch(Exception e){ System.out.println(e);}
+}
+}
+
+
+
+</body>
+</html>

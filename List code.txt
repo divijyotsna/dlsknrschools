@@ -1,0 +1,92 @@
+Unordered List
+<ul>
+<li>Banana</li>
+  <li>Carrot</li>
+  <li>Apple</li>
+  <li>Sapota</li>
+  <li>Samosa</li>
+</ul>
+
+<ul type='square'>
+  <li>Banana</li>
+<li>Carrot</li>
+  <li>Apple</li>
+  <li>Sapota</li>
+  <li>Samosa</li>
+</ul>
+
+<ul type='circle'>
+  <li>Banana</li>
+  <li>Carrot</li>
+  <li>Apple</li>
+  <li>Sapota</li>
+  <li>Samosa</li>
+</ul>                    
+    
+2.ordered list code:
+<ol>
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Sapota</li>
+  <li>Samosa</li>
+  
+<ol/>
+<ol type="A">
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Sapota</li>
+  <li>Samosa</li>
+
+<ol/>
+
+<ol type="a" start="100">
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Sapota</li>
+  <li>Samosa</li>
+
+<ol/>
+
+<ol type="I" start="100">
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Sapota</li>
+  <li>Samosa</li>
+
+<ol/>
+<ol type="i">
+  <li>Banana</li>
+  <li>Apple</li>
+  <li>Sapota</li>
+  <li>Samosa</li>
+
+<ol/>
+
+
+3.Mischenius list or nested list
+
+ol>
+  <li>Central Library</li>
+  <li>GYM</li>
+  <li>MAc computer lab</li>
+  <li>HOrse Riding</li>
+<ol/>
+
+<hr>
+
+<h2>Best faculty</h2>
+
+<ol>
+  <li> Maths faculty</li>
+    <ul>
+       <li>Geeta madam</li>
+       <li>Suresh sir</li>
+       <li>ramesh sir</li>
+  <li>Physics Faculty</li>
+     <ol>
+       <li>Shankar sir</li>
+       <li>Rani  madam</li>
+       <li>Santhosh sir</li>
+  <li>Chemistry faculty</li>
+</ol>
+

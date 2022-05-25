@@ -1,0 +1,6 @@
+<marquee scroolldelay="50" scrollamount="10" >* Schools will reopen from june 6th 2022, Admissions are open contact :810810810</marquee>
+
+<marquee>
+  <img src="offer.png" alt=""
+  <img src="offer.png" alt=""
+  <img src="offer.png" alt=""
